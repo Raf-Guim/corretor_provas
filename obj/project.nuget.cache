@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fzf2mYAX+PWRCMH9E0vB0jlfwwCEyty7IuC/Dk0s5Do1og8C5b723OjqAWSTGdejiwMI971i1S8kdF1WA6J7g==",
+  "success": true,
+  "projectFilePath": "/Users/rafael/Documents/University/2023-02/computacao_cognitiva/atividade_grupo_1/Projeto.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafael/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/skiasharp.nativeassets.linux/2.88.3/skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/skiasharp.nativeassets.macos/2.88.3/skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}
